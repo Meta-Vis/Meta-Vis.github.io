@@ -66,4 +66,4 @@ user_groups:
 ---
 
 Haotian Chen is a engineer of machine vision at the MetaVis and the Industrial Computer Vision Center in HITCQ. 
-His works include machine vision algorithm development and soft materials anomaly detection.
+His works include machine vision algorithm development and especially soft materials anomaly detection.
