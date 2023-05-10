@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quan Yang 杨权 | METAVIS</title><link>https://Meta-Vis.github.io/author/quan-yang-%E6%9D%A8%E6%9D%83/</link><atom:link href="https://Meta-Vis.github.io/author/quan-yang-%E6%9D%A8%E6%9D%83/index.xml" rel="self" type="application/rss+xml"/><description>Quan Yang 杨权</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><image><url>https://Meta-Vis.github.io/author/quan-yang-%E6%9D%A8%E6%9D%83/avatar_hud3d45a50a449b6b8b6cf99be913f57b1_5470816_270x270_fill_q75_lanczos_center.jpg</url><title>Quan Yang 杨权</title><link>https://Meta-Vis.github.io/author/quan-yang-%E6%9D%A8%E6%9D%83/</link></image><item><title>Microscopic Componnets Anomaly Inspection</title><link>https://Meta-Vis.github.io/project/aoi/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/project/aoi/</guid><description>&lt;h2 id="project-background">Project Background&lt;/h2>
+&lt;p>A Micro LED R&amp;amp;D company needs to perform visual inspections on each section of the production process to assess the impact of process changes on the quality of display chips.
+&lt;figure id="figure-overview-of-wafer-detection-platform">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Overview of Wafer Detection Platform" srcset="
+/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_8019e0a2770616698b0765d66869b14e.webp 400w,
+/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_0573b735ee61dc87a1e4582153b38ac4.webp 760w,
+/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_8019e0a2770616698b0765d66869b14e.webp"
+width="760"
+height="491"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Overview of Wafer Detection Platform
+&lt;/figcaption>&lt;/figure>
+Our developed automatic optical inspection equipment for the surface appearance of wafers supports fast, efficient, and accurate defect detection, classification, and review, which can effectively assist in the iterative development of Micro LED.&lt;/p>
+&lt;h2 id="applications-scenarios">Applications Scenarios&lt;/h2>
+&lt;ul>
+&lt;li>SiC&lt;/li>
+&lt;li>Wafer&lt;/li>
+&lt;li>MiniLED/MicroLED&lt;/li>
+&lt;li>Glass substrates&lt;/li>
+&lt;/ul>
+&lt;h2 id="advantages-of-the-system">Advantages of the System&lt;/h2>
+&lt;h3 id="multi-dimensional-imaging---flexible-and-freely-combinable-imaging">Multi-Dimensional Imaging - Flexible and Freely Combinable Imaging&lt;/h3>
+&lt;p>The imaging system includes various imaging methods such as bright field, dark field, DIC, and PL.&lt;/p>
+&lt;p>
+&lt;figure id="figure-imaging-sub-system">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Imaging sub-system" srcset="
+/project/aoi/ad1_hucad3b2b671825b20efd8cfdb73ff6bcf_2512189_6ca63cc1016cc546511d0991b2179918.webp 400w,
+/project/aoi/ad1_hucad3b2b671825b20efd8cfdb73ff6bcf_2512189_5119b5a46c28ced487120a8a4e248f61.webp 760w,
+/project/aoi/ad1_hucad3b2b671825b20efd8cfdb73ff6bcf_2512189_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/aoi/ad1_hucad3b2b671825b20efd8cfdb73ff6bcf_2512189_6ca63cc1016cc546511d0991b2179918.webp"
+width="760"
+height="668"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Imaging sub-system
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>It supports real-time focusing, adopts dual alignment positioning, and uses high-precision cameras with multiple magnification objectives to clearly show defects.&lt;/p>
+&lt;h3 id="ai-anomaly-detection-and-classification">A.I. Anomaly Detection and Classification&lt;/h3>
+&lt;p>
+&lt;figure id="figure-examples-of-defects-detected">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Examples of defects detected" srcset="
+/project/aoi/ad2_hu710014328a3ed86964c33272c683ba6f_2025715_d3872e3fd6559cf1bd03f82ee99bc907.webp 400w,
+/project/aoi/ad2_hu710014328a3ed86964c33272c683ba6f_2025715_2744318b54496c53fc102e2b70b1f28b.webp 760w,
+/project/aoi/ad2_hu710014328a3ed86964c33272c683ba6f_2025715_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/aoi/ad2_hu710014328a3ed86964c33272c683ba6f_2025715_d3872e3fd6559cf1bd03f82ee99bc907.webp"
+width="760"
+height="209"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Examples of defects detected
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>The A.I. system can support the detection of various small, weak, and complex defects, and adapts to normal process variations, providing classifications for common defect types such as hotspots, black spots, hole misalignment, and contamination scratches.&lt;/p>
+&lt;h3 id="all-in-one-software">All-in-one Software&lt;/h3>
+&lt;p>The interface is simple and intuitive, and the operation is smooth and convenient.&lt;/p>
+&lt;p>
+&lt;figure id="figure-window-of-our-software">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Window of our software" srcset="
+/project/aoi/ad3_hu4fe480a1795c2720580da7cec1ac77a0_1630176_5f659f227408a9de81778785bb505708.webp 400w,
+/project/aoi/ad3_hu4fe480a1795c2720580da7cec1ac77a0_1630176_5ea7076adf34afdabbe839153ff8b983.webp 760w,
+/project/aoi/ad3_hu4fe480a1795c2720580da7cec1ac77a0_1630176_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/aoi/ad3_hu4fe480a1795c2720580da7cec1ac77a0_1630176_5f659f227408a9de81778785bb505708.webp"
+width="760"
+height="434"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Window of our software
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>There is no need for tedious and lengthy manual modeling. Instead, a data-driven defect detection model is used, which supports dynamic adjustment of the defect detection standards.&lt;/p>
+&lt;h2 id="system-specifications">System Specifications&lt;/h2>
+&lt;ul>
+&lt;li>Size of wafer: 4&amp;quot;/6&amp;quot; or 6&amp;quot;/8&amp;quot;&lt;/li>
+&lt;li>Detection accuracy:
+&lt;ul>
+&lt;li>False Positive Error: &amp;lt;0.5%&lt;/li>
+&lt;li>False Negative Error: &amp;lt;0.5%&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Precision: 1um/pixel@5X or 0.25um/pixel@20X&lt;/li>
+&lt;li>Efficiency: 20WPH@6&amp;quot; or 12WPH@8&amp;quot;&lt;/li>
+&lt;/ul>
+&lt;p>Thanks for reading. For more details and inqueries, please contact the project manager listed on the bottom of this page.&lt;/p></description></item></channel></rss>

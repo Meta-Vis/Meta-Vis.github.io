@@ -30,6 +30,12 @@ Example of possible defects
 &lt;/figcaption>&lt;/figure>
 The injection moulded products are randomly distributed on the conveyor belt and the main inspection surfaces are located around the sides, so the robot is used to track and locate the defects and detect the indispensable defects.&lt;/p>
 &lt;p>Based on our defect detection algorithm platform and nearly thirty years of experience in vision imaging, the few-shot defect detection algorithm was successfully applied and promoted in an injection moulding factory.&lt;/p>
+&lt;h2 id="applications-scenarios">Applications Scenarios&lt;/h2>
+&lt;ul>
+&lt;li>Automotive parts&lt;/li>
+&lt;li>Electronic components&lt;/li>
+&lt;li>Metal processing&lt;/li>
+&lt;/ul>
 &lt;h2 id="advantages-of-the-system">Advantages of the System&lt;/h2>
 &lt;h3 id="ai-detection-algorithm">A.I. Detection Algorithm&lt;/h3>
 &lt;p>
