@@ -8,7 +8,7 @@ last_name: Fan
 
 # Username (this should match the folder name)
 authors:
-  - Wenrui
+  - fanwenrui
 
 # Is this the primary user of the site?
 superuser: false

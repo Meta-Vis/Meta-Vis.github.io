@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        MetaVis
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **MetaVis** has been a company of excellence for Industrial Artificial Intelligence research, providing solutions to industrial anomaly detection since its founding in 2021.
   
   - block: collection
     content:
