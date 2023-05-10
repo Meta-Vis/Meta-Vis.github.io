@@ -66,6 +66,7 @@ It can perform five major functions, including
 - defect localization
 
 ## Structure of Platform
+![](structure.png "Structure of the platform")
 
 ## Window of Software
 ![](window.png "Window of the software")
