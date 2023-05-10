@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>METAVIS</title><link>https://Meta-Vis.github.io/</link><atom:link href="https://Meta-Vis.github.io/index.xml" rel="self" type="application/rss+xml"/><description>METAVIS</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://Meta-Vis.github.io/media/icon_hu098c4978f249ca35a4d05fd818655f95_263530_512x512_fill_lanczos_center_3.png</url><title>METAVIS</title><link>https://Meta-Vis.github.io/</link></image><item><title>Contact</title><link>https://Meta-Vis.github.io/contact/</link><pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/contact/</guid><description/></item><item><title>Industrial Components Appearance Inspection</title><link>https://Meta-Vis.github.io/project/icai/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/project/icai/</guid><description>&lt;h2 id="project-background">Project Background&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>METAVIS</title><link>https://Meta-Vis.github.io/</link><atom:link href="https://Meta-Vis.github.io/index.xml" rel="self" type="application/rss+xml"/><description>METAVIS</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://Meta-Vis.github.io/media/icon_hu098c4978f249ca35a4d05fd818655f95_263530_512x512_fill_lanczos_center_3.png</url><title>METAVIS</title><link>https://Meta-Vis.github.io/</link></image><item><title>Contact</title><link>https://Meta-Vis.github.io/contact/</link><pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/contact/</guid><description/></item><item><title>Flexible Material High-Precision Detection</title><link>https://Meta-Vis.github.io/project/flexible-material/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/project/flexible-material/</guid><description>&lt;h2 id="product-introduction">Product Introduction&lt;/h2>
+&lt;p>
+&lt;figure id="figure-overview-of-the-system">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Overview of the system" srcset="
+/project/flexible-material/overview_hu369afed30d0396dd53adc9522c39edf6_5633191_f92e0a1256b9a5a3b353284092c20894.webp 400w,
+/project/flexible-material/overview_hu369afed30d0396dd53adc9522c39edf6_5633191_cdb5572f0bc324ea14dc48440a47eef0.webp 760w,
+/project/flexible-material/overview_hu369afed30d0396dd53adc9522c39edf6_5633191_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/flexible-material/overview_hu369afed30d0396dd53adc9522c39edf6_5633191_f92e0a1256b9a5a3b353284092c20894.webp"
+width="760"
+height="640"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Overview of the system
+&lt;/figcaption>&lt;/figure>
+The flexible material high-precision inspection system consists of four main components:&lt;/p>
+&lt;ul>
+&lt;li>high-transmission light sources&lt;/li>
+&lt;li>high-resolution line-scan cameras&lt;/li>
+&lt;li>simple and easy-to-install mechanical structures&lt;/li>
+&lt;li>highly stable system software&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure id="figure-examples-of-detected-defects">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Examples of detected defects" srcset="
+/project/flexible-material/anomaly_hu1ae07c6ac47ac80962a28db47850fd61_1374542_f3a4ec90be6e3da46a1e512a81453670.webp 400w,
+/project/flexible-material/anomaly_hu1ae07c6ac47ac80962a28db47850fd61_1374542_9c84c3b3181cd0021214c4d96ac6b1c4.webp 760w,
+/project/flexible-material/anomaly_hu1ae07c6ac47ac80962a28db47850fd61_1374542_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/flexible-material/anomaly_hu1ae07c6ac47ac80962a28db47850fd61_1374542_f3a4ec90be6e3da46a1e512a81453670.webp"
+width="760"
+height="488"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Examples of detected defects
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>The system is mainly used for high-precision defect detection of flexible materials.
+It combines deep learning AI algorithms and traditional algorithms to accurately detect fine defects as small as &lt;strong>10um&lt;/strong>.
+It is suitable for &lt;strong>quality control&lt;/strong> and &lt;strong>product rewinding&lt;/strong> on &lt;strong>flexible printing production lines&lt;/strong>.&lt;/p>
+&lt;h2 id="application-scenarios">Application Scenarios&lt;/h2>
+&lt;p>
+&lt;figure id="figure-applications">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Applications" srcset="
+/project/flexible-material/app_hu99adf25ff465719e3f1e5bd4ce1c19cf_4833000_6d8ae28adf65e3a19010c6a270da08c1.webp 400w,
+/project/flexible-material/app_hu99adf25ff465719e3f1e5bd4ce1c19cf_4833000_6cb6bf0451dc928dff3953347406d40f.webp 760w,
+/project/flexible-material/app_hu99adf25ff465719e3f1e5bd4ce1c19cf_4833000_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/flexible-material/app_hu99adf25ff465719e3f1e5bd4ce1c19cf_4833000_6d8ae28adf65e3a19010c6a270da08c1.webp"
+width="760"
+height="217"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Applications
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;ul>
+&lt;li>MLCC&lt;/li>
+&lt;li>RFID&lt;/li>
+&lt;li>FPC&lt;/li>
+&lt;/ul>
+&lt;h2 id="advantages-of-the-system">Advantages of the System&lt;/h2>
+&lt;h3 id="high-precision">High-Precision&lt;/h3>
+&lt;p>The system &lt;strong>solves the problem of deformation in flexible materials&lt;/strong> under high-precision imaging conditions and is capable of &lt;strong>detecting fine defects as small as 10um&lt;/strong>.&lt;/p>
+&lt;h3 id="high-accuracy">High Accuracy&lt;/h3>
+&lt;p>With the support of &lt;strong>few-shot learning&lt;/strong> and &lt;strong>traditional algorithms&lt;/strong>, the detection accuracy reaches &lt;strong>over 98%&lt;/strong>.&lt;/p>
+&lt;h3 id="full-surface-online-real-time-inspection">Full-surface Online Real-time Inspection&lt;/h3>
+&lt;p>The system can accurately locate &lt;strong>all areas of the image surface&lt;/strong>, enabling &lt;strong>full-surface inspection&lt;/strong>.
+The average detection time is &lt;strong>less than 800ms&lt;/strong>, meeting the requirements for &lt;strong>real-time online inspection&lt;/strong>.&lt;/p>
+&lt;h3 id="one-click-modeling">One-click Modeling&lt;/h3>
+&lt;p>With &lt;strong>one-click modeling operation&lt;/strong>, the system can &lt;strong>quickly&lt;/strong> apply the model to the inspection of &lt;strong>different products&lt;/strong>.&lt;/p>
+&lt;h2 id="system-specifications">System Specifications&lt;/h2>
+&lt;ul>
+&lt;li>Inspection Precision: 10um (customizable according to demand)&lt;/li>
+&lt;li>Imaging Modality:
+&lt;ul>
+&lt;li>Bright/Dark Field&lt;/li>
+&lt;li>Transmissive light&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Capable Defects Types:
+&lt;ul>
+&lt;li>Pinholes&lt;/li>
+&lt;li>Burrs&lt;/li>
+&lt;li>Disconnections&lt;/li>
+&lt;li>Glue spills&lt;/li>
+&lt;li>so on&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Thanks for reading. For more details and inqueries, please contact the project manager listed on the bottom of this page.&lt;/p></description></item><item><title>Industrial Components Appearance Inspection</title><link>https://Meta-Vis.github.io/project/icai/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/project/icai/</guid><description>&lt;h2 id="project-background">Project Background&lt;/h2>
 &lt;p>An injection moulding factory needs to upgrade the production of traditional injection moulding machines to an unmanned digital factory.
 &lt;figure id="figure-overview-of-appearance-inspection-system">
 &lt;div class="d-flex justify-content-center">
@@ -171,6 +261,21 @@ It can perform five major functions, including&lt;/p>
 &lt;li>defect localization&lt;/li>
 &lt;/ul>
 &lt;h2 id="structure-of-platform">Structure of Platform&lt;/h2>
+&lt;p>
+&lt;figure id="figure-structure-of-the-platform">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Structure of the platform" srcset="
+/project/metavis/structure_hu5e1587b95069cf308349fd56510bbadc_200162_1a7008acf0d9456412016622ce402f67.webp 400w,
+/project/metavis/structure_hu5e1587b95069cf308349fd56510bbadc_200162_49a7bd469e9400aec64afaa7323b89b6.webp 760w,
+/project/metavis/structure_hu5e1587b95069cf308349fd56510bbadc_200162_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/metavis/structure_hu5e1587b95069cf308349fd56510bbadc_200162_1a7008acf0d9456412016622ce402f67.webp"
+width="760"
+height="622"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Structure of the platform
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
 &lt;h2 id="window-of-software">Window of Software&lt;/h2>
 &lt;p>
 &lt;figure id="figure-window-of-the-software">
