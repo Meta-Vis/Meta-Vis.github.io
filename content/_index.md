@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **MetaVis** has been a company of excellence for Industrial Artificial Intelligence research, providing solutions to industrial anomaly detection since its founding in 2021.
+        The **MetaVis** has been a group of excellence for Industrial Artificial Intelligence research, providing solutions to industrial anomaly detection since its founding in 2021.
   
   - block: collection
     content:
