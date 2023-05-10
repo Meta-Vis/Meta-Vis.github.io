@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>METAVIS</title><link>https://Meta-Vis.github.io/</link><atom:link href="https://Meta-Vis.github.io/index.xml" rel="self" type="application/rss+xml"/><description>METAVIS</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://Meta-Vis.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>METAVIS</title><link>https://Meta-Vis.github.io/</link></image><item><title>Contact</title><link>https://Meta-Vis.github.io/contact/</link><pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/contact/</guid><description/></item><item><title>Industrial Components Appearance Inspection</title><link>https://Meta-Vis.github.io/project/example/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/project/example/</guid><description>&lt;h2 id="project-background">Project Background&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>METAVIS</title><link>https://Meta-Vis.github.io/</link><atom:link href="https://Meta-Vis.github.io/index.xml" rel="self" type="application/rss+xml"/><description>METAVIS</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://Meta-Vis.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>METAVIS</title><link>https://Meta-Vis.github.io/</link></image><item><title>Contact</title><link>https://Meta-Vis.github.io/contact/</link><pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/contact/</guid><description/></item><item><title>Industrial Components Appearance Inspection</title><link>https://Meta-Vis.github.io/project/icai/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://Meta-Vis.github.io/project/icai/</guid><description>&lt;h2 id="project-background">Project Background&lt;/h2>
 &lt;p>An injection moulding factory needs to upgrade the production of traditional injection moulding machines to an unmanned digital factory.
 &lt;figure id="figure-overview-of-appearance-inspection-system">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Overview of appearance inspection system" srcset="
-/project/example/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_3fdaacc307819c56b246a5802b5174e9.webp 400w,
-/project/example/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_97e4730df16dfcfd7b772b5e2899a6d3.webp 760w,
-/project/example/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_3fdaacc307819c56b246a5802b5174e9.webp"
+/project/icai/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_3fdaacc307819c56b246a5802b5174e9.webp 400w,
+/project/icai/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_97e4730df16dfcfd7b772b5e2899a6d3.webp 760w,
+/project/icai/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/bg1_hu19325f14af5f9cd621faf9049eb526c7_2858716_3fdaacc307819c56b246a5802b5174e9.webp"
 width="760"
 height="447"
 loading="lazy" data-zoomable />&lt;/div>
@@ -18,10 +18,10 @@ On the one hand, the defective products are removed from the production process 
 &lt;figure id="figure-example-of-possible-defects">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Example of possible defects" srcset="
-/project/example/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_25810b1406760ee69954962919c15ac8.webp 400w,
-/project/example/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_abdb7fc2df75b0cda8414c462ba251f6.webp 760w,
-/project/example/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_25810b1406760ee69954962919c15ac8.webp"
+/project/icai/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_25810b1406760ee69954962919c15ac8.webp 400w,
+/project/icai/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_abdb7fc2df75b0cda8414c462ba251f6.webp 760w,
+/project/icai/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/bg2_hu12615b4c7eb62cd073ac43925325054c_172820_25810b1406760ee69954962919c15ac8.webp"
 width="760"
 height="325"
 loading="lazy" data-zoomable />&lt;/div>
@@ -36,10 +36,10 @@ The injection moulded products are randomly distributed on the conveyor belt and
 &lt;figure id="figure-window-of-the-software">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Window of the Software" srcset="
-/project/example/ad1_hu322b89c8efed328507250f20edb55285_1966423_b448af739bc2247cc38a3b1a519cda03.webp 400w,
-/project/example/ad1_hu322b89c8efed328507250f20edb55285_1966423_f4d96456db0e826e33677ba1234c7676.webp 760w,
-/project/example/ad1_hu322b89c8efed328507250f20edb55285_1966423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/ad1_hu322b89c8efed328507250f20edb55285_1966423_b448af739bc2247cc38a3b1a519cda03.webp"
+/project/icai/ad1_hu322b89c8efed328507250f20edb55285_1966423_b448af739bc2247cc38a3b1a519cda03.webp 400w,
+/project/icai/ad1_hu322b89c8efed328507250f20edb55285_1966423_f4d96456db0e826e33677ba1234c7676.webp 760w,
+/project/icai/ad1_hu322b89c8efed328507250f20edb55285_1966423_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/ad1_hu322b89c8efed328507250f20edb55285_1966423_b448af739bc2247cc38a3b1a519cda03.webp"
 width="760"
 height="498"
 loading="lazy" data-zoomable />&lt;/div>
@@ -51,10 +51,10 @@ The system is a &lt;strong>self-developed all-in-one tool for labeling, training
 &lt;figure id="figure-examples-of-the-defects-found-by-our-system">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Examples of the defects found by our system" srcset="
-/project/example/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_69ebabdf1b172968e3e195ec7939aa70.webp 400w,
-/project/example/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_cc9e20a6c33d0727a9215fcad6d02cda.webp 760w,
-/project/example/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_69ebabdf1b172968e3e195ec7939aa70.webp"
+/project/icai/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_69ebabdf1b172968e3e195ec7939aa70.webp 400w,
+/project/icai/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_cc9e20a6c33d0727a9215fcad6d02cda.webp 760w,
+/project/icai/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/ad2_huf4ee5086df2e86732333558559c9ffa7_374655_69ebabdf1b172968e3e195ec7939aa70.webp"
 width="760"
 height="162"
 loading="lazy" data-zoomable />&lt;/div>
@@ -79,10 +79,10 @@ Examples of the defects found by our system
 &lt;figure id="figure-component-captured-by-the-manipulator">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Component captured by the manipulator" srcset="
-/project/example/ad3_hud13519bb26688f845c06f732cc240822_2073571_8a4584c3caaf2c71064232e1ce9ea216.webp 400w,
-/project/example/ad3_hud13519bb26688f845c06f732cc240822_2073571_d6bfe970fff7fb3737c6c843d54a00b8.webp 760w,
-/project/example/ad3_hud13519bb26688f845c06f732cc240822_2073571_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/ad3_hud13519bb26688f845c06f732cc240822_2073571_8a4584c3caaf2c71064232e1ce9ea216.webp"
+/project/icai/ad3_hud13519bb26688f845c06f732cc240822_2073571_8a4584c3caaf2c71064232e1ce9ea216.webp 400w,
+/project/icai/ad3_hud13519bb26688f845c06f732cc240822_2073571_d6bfe970fff7fb3737c6c843d54a00b8.webp 760w,
+/project/icai/ad3_hud13519bb26688f845c06f732cc240822_2073571_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/ad3_hud13519bb26688f845c06f732cc240822_2073571_8a4584c3caaf2c71064232e1ce9ea216.webp"
 width="760"
 height="671"
 loading="lazy" data-zoomable />&lt;/div>
@@ -95,10 +95,10 @@ Component captured by the manipulator
 &lt;figure id="figure-oks-and-ngs">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="OKs and NGs" srcset="
-/project/example/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_1fba426a509f417c5a3206b8c35ae57c.webp 400w,
-/project/example/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_f0751337d3b55754e00aa937fbaa832e.webp 760w,
-/project/example/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_1fba426a509f417c5a3206b8c35ae57c.webp"
+/project/icai/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_1fba426a509f417c5a3206b8c35ae57c.webp 400w,
+/project/icai/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_f0751337d3b55754e00aa937fbaa832e.webp 760w,
+/project/icai/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/ad4_hu825231af64647b390cbae4f582cc1c97_1119799_1fba426a509f417c5a3206b8c35ae57c.webp"
 width="760"
 height="281"
 loading="lazy" data-zoomable />&lt;/div>
@@ -113,10 +113,10 @@ This system can be used in industries such as &lt;strong>automotive parts, elect
 &lt;figure id="figure-example-of-imaging-system">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Example of imaging system" srcset="
-/project/example/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_6bb2a784e44f408a60309849ecac4056.webp 400w,
-/project/example/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_329d4e2ffc4bb41b51018cfb1ef0592c.webp 760w,
-/project/example/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_6bb2a784e44f408a60309849ecac4056.webp"
+/project/icai/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_6bb2a784e44f408a60309849ecac4056.webp 400w,
+/project/icai/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_329d4e2ffc4bb41b51018cfb1ef0592c.webp 760w,
+/project/icai/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/ad5_hu92ba4051e464d9f687f3d05fda2b260c_1368446_6bb2a784e44f408a60309849ecac4056.webp"
 width="760"
 height="672"
 loading="lazy" data-zoomable />&lt;/div>
@@ -128,12 +128,12 @@ With a powerful self-developed vision system and various image recognition senso
 &lt;figure id="figure-different-illuminations-of-imaging">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Different illuminations of imaging" srcset="
-/project/example/ad6_hu04a907f5dc72659b053911aab0b6ce60_539442_f644d7a59b1a9a2c5f386118fdecabaa.webp 400w,
-/project/example/ad6_hu04a907f5dc72659b053911aab0b6ce60_539442_02d239646a0cd7c5d41a765392be6bf4.webp 760w,
-/project/example/ad6_hu04a907f5dc72659b053911aab0b6ce60_539442_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/example/ad6_hu04a907f5dc72659b053911aab0b6ce60_539442_f644d7a59b1a9a2c5f386118fdecabaa.webp"
+/project/icai/ad6_hub82881c9efe24ebcee496659af8174b7_535209_7f54014c8ad8a73ffe818043a27168d5.webp 400w,
+/project/icai/ad6_hub82881c9efe24ebcee496659af8174b7_535209_395e16c6cf504d1f30573017138d565e.webp 760w,
+/project/icai/ad6_hub82881c9efe24ebcee496659af8174b7_535209_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/icai/ad6_hub82881c9efe24ebcee496659af8174b7_535209_7f54014c8ad8a73ffe818043a27168d5.webp"
 width="760"
-height="344"
+height="345"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Different illuminations of imaging
