@@ -164,10 +164,10 @@ This system can fuse multiple imaging techniques such as ring illumination, bar 
 &lt;figure id="figure-overview-of-wafer-detection-platform">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Overview of Wafer Detection Platform" srcset="
-/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_8019e0a2770616698b0765d66869b14e.webp 400w,
-/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_0573b735ee61dc87a1e4582153b38ac4.webp 760w,
-/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://Meta-Vis.github.io/project/aoi/bg_hu0a166c834dcf3a8ff7193eb16e9cf798_12017583_8019e0a2770616698b0765d66869b14e.webp"
+/project/aoi/bg_hudbd7930f592471765f7deee27b90179c_12016202_16fb7f81cf8ce5fe1f34b987bad3b319.webp 400w,
+/project/aoi/bg_hudbd7930f592471765f7deee27b90179c_12016202_bc688099d2f5b9fad454f8e299cdd10f.webp 760w,
+/project/aoi/bg_hudbd7930f592471765f7deee27b90179c_12016202_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://Meta-Vis.github.io/project/aoi/bg_hudbd7930f592471765f7deee27b90179c_12016202_16fb7f81cf8ce5fe1f34b987bad3b319.webp"
 width="760"
 height="491"
 loading="lazy" data-zoomable />&lt;/div>
