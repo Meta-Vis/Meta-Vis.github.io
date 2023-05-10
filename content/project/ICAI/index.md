@@ -66,6 +66,11 @@ The injection moulded products are randomly distributed on the conveyor belt and
 
 Based on our defect detection algorithm platform and nearly thirty years of experience in vision imaging, the few-shot defect detection algorithm was successfully applied and promoted in an injection moulding factory.
 
+## Applications Scenarios
+- Automotive parts
+- Electronic components
+- Metal processing
+
 ## Advantages of the System
 
 ### A.I. Detection Algorithm
