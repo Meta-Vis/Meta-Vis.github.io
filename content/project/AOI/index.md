@@ -1,5 +1,5 @@
 ---
-title: Microscopic Componnets Anomaly Inspection
+title: Microscopic Components Anomaly Inspection
 
 # event: Wowchemy Conference
 # event_url: https://example.org
