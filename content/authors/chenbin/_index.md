@@ -24,7 +24,7 @@ organizations:
     url: 'https://www.ucas.ac.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, computer vision and industrial anomaly detection.
+bio: My research interests include computer vision, object detection, and industrial anomaly detection.
 
 interests:
   - Artificial Intelligence
@@ -33,12 +33,15 @@ interests:
 
 education:
   courses:
-    - course: MSc in Robotics
-      institution: The University of Sheffield, UK
-      year: 2022
-    - course: BSc in Aerospace Engineering
-      institution: Beijing Institute of Technology, CN
-      year: 2021
+    - course: PhD in Computer Science
+      institution: University of Chinese Academy of Sciences
+      year: 2005
+    - course: MEng in Computer Engineering
+      institution: Sichuan University
+      year: 1992
+    - course: BSs in Computer Science
+      institution: Tsinghua University
+      year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,16 +50,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'winslowfan0317@outlook.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/WinslowFan0317
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Winslow-Fan
-  - icon: circle-info
+    link: 'chenbin2020@hit.edu.cn'
+  - icon: link
     icon_pack: fas
-    link: https://Winslow-Fan.github.io
+    link: http://faculty.hitsz.edu.cn/chenbin2020
+  - icon: phone
+    icon_pack: fas
+    link: 0755-86965342
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +72,5 @@ user_groups:
   # - Administration
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bin Chen is a professor of artificial intelligience in Harbin Institute of Technology and the University of Chinese Academy of Sciences.
+His research interest includes A.I. bassed object detection, industrial machine vision and intelligient sensing.

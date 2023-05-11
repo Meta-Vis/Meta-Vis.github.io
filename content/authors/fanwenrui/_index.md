@@ -52,7 +52,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Winslow-Fan
-  - icon: circle-info
+  - icon: link
     icon_pack: fas
     link: https://Winslow-Fan.github.io
 # Link to a PDF of your resume/CV from the About widget.

@@ -22,11 +22,11 @@ organizations:
     url: 'https://Meta-Vis.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine vision, especially anomaly detection on soft materials.
+bio: My research interests include machine vision, especially anomaly detection on felxible materials.
 
 interests:
   - Machine Vision
-  - Soft Material Detection
+  - Flexible Material Detection
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
 ---
 
 Haotian Chen is a engineer of machine vision at the MetaVis and the Industrial Computer Vision Center in HITCQ. 
-His works include machine vision algorithm development and especially soft materials anomaly detection.
+His works include machine vision algorithm development and especially flexible materials anomaly detection.
